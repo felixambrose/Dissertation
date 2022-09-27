@@ -22,7 +22,7 @@
 2) DistilBERT for sequence classification (Dynamic Embeddings and Network Weights)
 3) DistilBERT (Dynamic Embeddings and Network Weights) + Additional Bidirectional LSTM layer
 
-`## Transfer Learner Methods
+## Transfer Learner Methods
 1) Train architecture on Facebook and Twitter data, test directly on Youtube and Reddit.
 2) Retrain architecture on Youtube and Reddit data.
 
