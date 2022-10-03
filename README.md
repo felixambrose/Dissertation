@@ -30,4 +30,4 @@
 
 - Fine tuning of DistilBERT architecture on task specific data is required to achieve benchmark performance on Facebook and Twitter.
 - An additional BLSTM layer with a dynamic DistilBERT architecture can achieve state of the art results on both datasets.
-- Transfer learning method 2 is able to surpass state of the art results whereas transfer learning 1 is not able to, implying that the platforms are heterogenous.
+- Transfer learning method 2 is able to surpass state of the art results whereas transfer learning 1 is not able to, implying heterogeneity and the requirement to retrain network architectures.
